@@ -8,3 +8,7 @@ specialist
 island
 paradise
 spelunking
+adventure
+treasure
+xylophone
+zebra
