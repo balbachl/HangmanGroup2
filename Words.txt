@@ -8,6 +8,12 @@ specialist
 island
 paradise
 spelunking
+Lantern
+Frost
+Melody
+Anchor
+Canyon
+Cade
 adventure
 treasure
 xylophone
