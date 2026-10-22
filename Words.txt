@@ -26,3 +26,9 @@ pineapple
 frog
 buffalo
 zeppline
+kiwi
+almond
+stone
+pepperoni
+lemon
+chocolate
